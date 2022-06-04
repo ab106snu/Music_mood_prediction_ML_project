@@ -45,6 +45,7 @@ terminology, the tempo is the speed or pace of a given piece and derives directl
 average beat duration
 
 # Algorithms:
+
 1.Logistic Regression
 2.Support vector machine
 3.KNN Model
